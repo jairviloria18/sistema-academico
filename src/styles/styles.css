@@ -1,0 +1,31 @@
+body {
+  background-color: #f8f9fa;
+  padding-top: 56px;
+}
+
+#root {
+  margin: auto;
+  padding: 20px 20px 20px 20px;
+  width: 500px;
+}
+
+.container {
+  padding: 20px 20px 20px 20px;
+}
+
+.container .navbar {
+  padding: 20px 20px 20px 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-menu {
+  left: 0 !important; /* Asegura que el menú comience alineado al botón */
+  right: auto !important;
+}
